@@ -1,4 +1,4 @@
-- Hi, I’m @niharPat
+[![](https://visitcount.itsvg.in/api?id=NiharPat&label=&color=7&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!---

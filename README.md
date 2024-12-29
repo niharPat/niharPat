@@ -1,1 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/nyaio/count.svg)
+![](https://komarev.com/ghpvc/?username=nyaio&style=flat-square&color=green&abbreviated=true)
